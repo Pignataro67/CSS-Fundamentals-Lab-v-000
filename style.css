@@ -11,7 +11,7 @@ img {
 
 nav a {
   padding: 0 10px 0 10px;
-  background-color: #fff;
+  background-color: #eee;
 }
 
 figcaption {
@@ -27,7 +27,7 @@ figcaption {
 
 #details div {
   float: left;
-  background-color: red;
+  background-color: blue;
   width: 25%;
   text-align: center;
 }
